@@ -8,6 +8,10 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
+
 		System.out.println("master add");
+
+		System.out.println("dev add");
+
 	}
 }
