@@ -12,6 +12,8 @@ public class HelloGit {
 		System.out.println("master add");
 
 		System.out.println("dev add");
+		
+		System.out.println("second update");
 
 	}
 }
